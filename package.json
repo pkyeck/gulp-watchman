@@ -16,7 +16,7 @@
     "url": "https://github.com/hirokiosame/gulp-watchman/issues"
   },
   "homepage": "https://github.com/hirokiosame/gulp-watchman#readme",
-  "devDependencies": {
+  "dependencies": {
     "fb-watchman": "^1.9.0",
     "gulp": "^3.9.1",
     "gulp-util": "^3.0.7",
